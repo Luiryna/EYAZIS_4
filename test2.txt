@@ -1,11 +1,3 @@
-Circuit switching on the Internet is described as “best-effort,” meaning that one of
-the routers along the way can lose a packet before it reaches its destination. In this
-case, the sender or receiver must somehow note that the packet was lost (perhaps by
-receiving the next packet and noting that it is out of context) and re-requesting the
-lost packet. This mechanism is fairly reliable in that two machines will usually (and
-eventually) figure out what went wrong and resend the missing packets. Packet loss
-causes audio and video to pause if the packets are eventually resent, and it causes
-video to pause, drop out, and skip if the packets are not resent at all. In our analogy
-of a public exchange point being a major airport, if it’s a “foggy day” at that exchange,
-the part of the Internet that goes through that exchange can be slowed down (called
-a brownout) by the data that can’t “take off.”
+The aim of this paper is to identify and analyse some of the parallels that exist between Lewis Carroll's unabridged works and Romantic sensibility on the one hand, and their relationship with modern drama, using postmodern literary theory and criticism on the other. It proposes an intertextual approach to show how much Carroll may have been influenced by Romantic philosophy and poetry, particularly that of William Wordsworth and Samuel Taylor Coleridge, and how his work can be interpreted as a foreshadowing of postmodern discourse, especially in the guise of Deconstruction, in modern drama with specific reference to Samuel Beckett's Waiting for Godot and Endgame.
+
+The paper is divided into two main sections. The first section grapples with Romanticism, paying particular attention to the concept of childhood and the re-collective memory, encapsulated in the hermeneutics of the self as progressive, and the psycho-aesthetics and spirituality of nature as expressed in the poetry of Wordsworth and Coleridge and to an extent Blake and Keats. It will then proceed to Carroll's Romantic sensibility with regard to these conceptual categories. The preoccupying interpretative paradigm in this light will be the psychology of the anxiety of influence and antithesis in which Carroll's re-visionist attitude will be brought out to show his distinctive stance from the Romantics. The second part will underscore theoretical and practical aspects of postmodern discourse that Carroll's work prefigures, and draw parallels with Beckett's oeuvre. Featuring in the discourse in this vein will be aspects of language, meaning, in short the poetics of interpretation in deconstructionist discourse.
