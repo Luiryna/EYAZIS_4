@@ -1,0 +1,113 @@
+Частота слов:
+the - 0.0694
+a - 0.0417
+to - 0.0347
+of - 0.0278
+computer - 0.0278
+have - 0.0208
+that - 0.0208
+changes - 0.0208
+would - 0.0208
+Computers - 0.0139
+around - 0.0139
+years - 0.0139
+in - 0.0139
+so - 0.0139
+rapidly - 0.0139
+many - 0.0139
+people - 0.0139
+developed - 0.0139
+at - 0.0139
+pace - 0.0139
+been - 0.0069
+for - 0.0069
+quite - 0.0069
+few - 0.0069
+Some - 0.0069
+your - 0.0069
+parents - 0.0069
+were - 0.0069
+probably - 0.0069
+1951 - 0.0069
+when - 0.0069
+first - 0.0069
+was - 0.0069
+bought - 0.0069
+by - 0.0069
+business - 0.0069
+firm - 0.0069
+changed - 0.0069
+cannot - 0.0069
+keep - 0.0069
+up - 0.0069
+with - 0.0069
+One - 0.0069
+newspaper - 0.0069
+tried - 0.0069
+describe - 0.0069
+what - 0.0069
+auto - 0.0069
+industry - 0.0069
+look - 0.0069
+like - 0.0069
+if - 0.0069
+it - 0.0069
+had - 0.0069
+similar - 0.0069
+technology - 0.0069
+Had - 0.0069
+automobile - 0.0069
+equal - 0.0069
+during - 0.0069
+past - 0.0069
+twenty - 0.0069
+today - 0.0069
+Rolls - 0.0069
+Royce - 0.0069
+cost - 0.0069
+less - 0.0069
+than - 0.0069
+$3.00 - 0.0069
+get - 0.0069
+3 - 0.0069
+million - 0.0069
+miles - 0.0069
+gallon - 0.0069
+deliver - 0.0069
+enough - 0.0069
+power - 0.0069
+drive - 0.0069
+ship - 0.0069
+Queen - 0.0069
+Elizabeth - 0.0069
+II - 0.0069
+and - 0.0069
+six - 0.0069
+them - 0.0069
+fit - 0.0069
+on - 0.0069
+head - 0.0069
+pin! - 0.0069
+These - 0.0069
+occurred - 0.0069
+do - 0.0069
+not - 0.0069
+know - 0.0069
+how - 0.0069
+our - 0.0069
+modern - 0.0069
+got - 0.0069
+started - 0.0069
+hello - 0.0069
+world - 0.0069
+************ 
+Информация о словах из словаря:
+************ 
+Computers - computer NOUN
+hello - hello INTJ
+world - world PROPN
+automobile - automobile NOUN
+ave - ave PROPN
+ay - ay INTJ
+bab - bab PROPN
+bee - bee PROPN

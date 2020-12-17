@@ -1,0 +1,10 @@
+Computers have been around for quite a few years. Some of your parents were probably
+around in 1951 when the first computer was bought by a business firm. Computers
+have changed so rapidly that many people cannot keep up with the changes.
+One newspaper tried to describe what the auto industry would look like if it had
+developed at a similar pace to changes in computer technology:
+“Had the automobile developed at a pace equal to that of the computer during the
+past twenty years, today a Rolls Royce would cost less than $3.00, get 3 million miles
+to the gallon, deliver enough power to drive (the ship) the Queen Elizabeth II, and six
+of them would fit on the head of a pin!” These changes have occurred so rapidly that
+many people do not know how our modern computer got started. hello world

@@ -1,0 +1,11 @@
+Circuit switching on the Internet is described as “best-effort,” meaning that one of
+the routers along the way can lose a packet before it reaches its destination. In this
+case, the sender or receiver must somehow note that the packet was lost (perhaps by
+receiving the next packet and noting that it is out of context) and re-requesting the
+lost packet. This mechanism is fairly reliable in that two machines will usually (and
+eventually) figure out what went wrong and resend the missing packets. Packet loss
+causes audio and video to pause if the packets are eventually resent, and it causes
+video to pause, drop out, and skip if the packets are not resent at all. In our analogy
+of a public exchange point being a major airport, if it’s a “foggy day” at that exchange,
+the part of the Internet that goes through that exchange can be slowed down (called
+a brownout) by the data that can’t “take off.”
